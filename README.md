@@ -2,6 +2,10 @@
 
 Im am a Big Data Engineer working within Machine Learning Proyects, my main goal is develop a CI/CD process for ML with the help of new soft infra and methodology. 
 
+#### TECH STACK
+
+PYTHON / PYSPARK / SPARK / HADOOP / HIVE / SQL / GITHUB / UNIX / GITHUB / NGINX / REST API / DOCKER / AWS / GCP
+
 - 🔭 I’m currently working as Big Data Engineer Contractor 
 - 🌱 I’m currently learning AWS Machine Learing Ops 
 - 👯 I’m looking to collaborate on Big Data Projects
