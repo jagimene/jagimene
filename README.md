@@ -4,7 +4,7 @@ Im am a Big Data Engineer working within Machine Learning Proyects, my main goal
 
 #### TECH STACK
 
-PYTHON / PYSPARK / SPARK / HADOOP / HIVE / SQL / GITHUB / UNIX / GITHUB / NGINX / REST API / DOCKER / AWS / GCP
+PYTHON / PYSPARK / SPARK / HADOOP / HIVE / SQL / GITHUB / UNIX / NGINX / REST API / DOCKER / AWS / GCP
 
 - 🔭 I’m currently working as Big Data Engineer Contractor 
 - 🌱 I’m currently learning AWS Machine Learing Ops 
