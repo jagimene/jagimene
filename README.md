@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im am a Big Data Engineer working within Machine Learning Proyects, my main goal is develop a CI/CD process for ML with the help of new soft infra and methodology. 
+Im am a Big Data Engineer working within Machine Learning Projects, my main goal is develop MLOps CI/CD processes that help to improve the technical debt of the Analytical Teams.
 
 #### TECH STACK
 
