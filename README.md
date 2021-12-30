@@ -10,7 +10,7 @@ PYTHON / PYSPARK / SPARK / HADOOP / HIVE / SQL / AWS / GIT / UNIX / DOCKER / NGI
 - 🌱 I’m currently learning AWS Machine Learing Ops 
 - 👯 I’m looking to collaborate on Big Data Projects
 - 🤔 I’m looking for help with Deploy CI/CD for MLProjects
-- 💬 Ask me about Spark Hadoop Hive Hdfs on premise solutions. AWS Glue and Sagemaker ML solutions arquitecture.
+- 💬 Ask me about Spark Hadoop Hive Hdfs on premise solutions. AWS Glue and Sagemaker ML solutions arquitecture
 - 📫 How to reach me: jesusariel.gimenez@gmail.com
 
 <!--
